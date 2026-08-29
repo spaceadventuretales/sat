@@ -1,0 +1,63 @@
+.heroBanner {
+  padding: 6rem 0 5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 20% 30%, rgba(76, 201, 240, 0.2), transparent 45%),
+    radial-gradient(circle at 80% 10%, rgba(25, 135, 84, 0.22), transparent 40%),
+    linear-gradient(180deg, rgba(12, 27, 38, 0.96), rgba(18, 42, 53, 0.92));
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
+
+.primarySection {
+  padding: 3rem 0 1.5rem;
+}
+
+.newsSection {
+  padding: 1.5rem 0 1.5rem;
+}
+
+.communitySection {
+  padding: 1.5rem 0 3.5rem;
+}
+
+.panel {
+  background: linear-gradient(180deg, #f7fbff, #ebf4ff);
+  border: 1px solid rgba(14, 82, 136, 0.15);
+  border-radius: 16px;
+  box-shadow: 0 12px 28px rgba(17, 35, 56, 0.08);
+  padding: 1.25rem;
+  min-height: 100%;
+}
+
+.inlineButtons {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.meta {
+  margin-bottom: 0.4rem;
+  color: var(--ifm-color-primary-dark);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+[data-theme='dark'] .panel {
+  background: linear-gradient(180deg, #122334, #182c3f);
+  border-color: rgba(95, 185, 255, 0.25);
+}
