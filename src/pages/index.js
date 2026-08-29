@@ -8,7 +8,7 @@ import styles from './index.module.css';
 
 const HomeNewsItems = [
   {
-    title: 'Space Adventures Newsroom Launch',
+    title: 'Tales of Space Adventures Newsroom Launch',
     date: '2026-03-20',
     description:
       'The newsroom is live with canon updates, production milestones, and release notes.',
@@ -25,8 +25,8 @@ function HomepageHeader() {
           Stories First. Universe Always.
         </Heading>
         <p className="hero__subtitle">
-          Space Adventures is a story and movie universe with a living reference
-          encyclopedia.
+          Tales of Space Adventures is a story and movie universe with a
+          living reference encyclopedia.
         </p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/stories">

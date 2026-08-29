@@ -4,14 +4,14 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Space Adventures',
-  tagline: 'A living sci-fi universe: encyclopedia, news, tales, and movies',
+  title: 'Tales of Space Adventures',
+  tagline: 'Stories and movies first, with a living canon encyclopedia',
   favicon: 'img/favicon.ico',
 
-  url: 'https://space-adventures.example.com',
+  url: 'https://sat.engilyin.com',
   baseUrl: '/',
 
-  organizationName: 'spaceadvantures',
+  organizationName: 'spaceadventuretales',
   projectName: 'sat',
 
   onBrokenLinks: 'throw',
@@ -33,9 +33,9 @@ const config = {
         },
         blog: {
           routeBasePath: 'news',
-          blogTitle: 'Space Adventures News',
+          blogTitle: 'Tales of Space Adventures News',
           blogDescription:
-            'Announcements, release notes, universe updates, and behind-the-scenes devlogs.',
+            'Announcements, release notes, universe updates, and behind-the-scenes story and movie devlogs.',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -55,14 +55,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/sat-social-card.svg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Space Adventures',
+        title: 'Tales of Space Adventures',
         logo: {
-          alt: 'Space Adventures Logo',
+          alt: 'Tales of Space Adventures Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -87,7 +87,7 @@ const config = {
           {to: '/motivation', label: 'Motivation', position: 'left'},
           {to: '/community', label: 'Community', position: 'right'},
           {
-            href: 'https://github.com/spaceadvantures/sat',
+            href: 'https://github.com/spaceadventuretales/sat',
             label: 'GitHub',
             position: 'right',
           },
@@ -143,12 +143,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/spaceadvantures/sat',
+                href: 'https://github.com/spaceadventuretales/sat',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Space Adventures. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tales of Space Adventures. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

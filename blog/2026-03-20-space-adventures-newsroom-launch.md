@@ -1,11 +1,13 @@
 ---
 slug: newsroom-launch
-title: Space Adventures Newsroom Launch
-authors: [space-adventures]
+title: Tales of Space Adventures Newsroom Launch
+authors: [spaceadventuretales]
 tags: [announcement, universe, production]
 ---
 
-Today we launch the Space Adventures newsroom.
+Today we launch the Tales of Space Adventures newsroom.
+
+<!-- truncate -->
 
 This news stream will track:
 

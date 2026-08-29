@@ -1,6 +1,12 @@
-# Space Adventures
+# Tales of Space Adventures
 
-Space Adventures is a Docusaurus-powered universe portal focused on stories, movies, and canon continuity.
+Tales of Space Adventures is a Docusaurus-powered universe portal focused on stories, movies, and canon continuity.
+
+Naming convention used in this project:
+
+- Full readable name: Tales of Space Adventures
+- Account/owner nickname: spaceadventuretales
+- Short abbreviation: sat
 
 ## Site structure
 
