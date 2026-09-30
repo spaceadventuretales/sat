@@ -32,7 +32,22 @@ const sidebars = {
     {
       type: 'category',
       label: 'Technologies',
-      items: ['technologies/overview'],
+      items: [
+        'technologies/overview',
+        {
+          type: 'category',
+          label: 'Travel Systems',
+          items: [
+            'technologies/travels/overview',
+            'technologies/travels/wrap-engine',
+            'technologies/travels/hole-teleportation',
+            'technologies/travels/travel-doctrine',
+            'technologies/travels/transport-geography',
+            'technologies/travels/gate-classes',
+            'technologies/travels/ftl-myths',
+          ],
+        },
+      ],
     },
     {
       type: 'category',
@@ -42,7 +57,11 @@ const sidebars = {
     {
       type: 'category',
       label: 'Starships',
-      items: ['starships/overview'],
+      items: [
+        'starships/overview',
+        'starships/wrap-capable-starships',
+        'starships/ship-classes',
+      ],
     },
     {
       type: 'category',
