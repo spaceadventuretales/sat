@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Starships are the mobile infrastructure of civilization. They carry cargo, passengers, fuel, weapons, migrants, refugees, and rescuers across the same routes that make interstellar society possible.
 
-In the Space Adventures universe, ships range from one-person courier craft to fleet carriers the size of small cities. They share the fundamental structure of wrap-capable hulls and sublight drive systems but differ enormously in purpose, survivability, crew culture, and political meaning.
+In the Space Adventures universe, ships range from one-person courier craft to fleet carriers the size of small cities. They share the fundamental structure of wrap-capable hulls and system drive propulsion but differ enormously in purpose, survivability, crew culture, and political meaning.
 
 This section maintains the reusable taxonomy of named ship classes, notable individual vessels, and the technology envelope that defines what any hull in this universe can and cannot do.
 
@@ -20,7 +20,7 @@ This section maintains the reusable taxonomy of named ship classes, notable indi
 
 - Class and generation
 - Crew size and operating model
-- FTL and sublight capabilities
+- FTL capability and system drive propulsion
 - Armament and defensive systems
 - First appearance and notable missions
 
