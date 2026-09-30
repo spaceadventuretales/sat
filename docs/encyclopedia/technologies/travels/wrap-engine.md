@@ -98,6 +98,12 @@ Major open problems in real science include:
 
 Because of these issues, the wrap engine remains hypothetical in real science.
 
+## Visualization Reference
+
+**Scene:** A deep-space vessel mid-transition into wrap. The ship is surrounded by a shimmering distortion shell. Stars ahead are compressed into concentric blue-shifted arcs. Stars behind stretch and redden. The hull glows along field-emitter spines running its length.
+
+**Image prompt:** photorealistic hard science fiction, deep space vessel entering FTL wrap transition, ship surrounded by a shimmering spacetime distortion bubble, stars ahead compressed into bright blue-shifted rings, stars behind stretching red, field emitter structures glowing along hull spines, dramatic contrast between ship and stellar compression effect, cold deep space background, cinematic realism, no fantasy aesthetics
+
 ## Why It Becomes Possible In The Tales
 
 The tales assume later breakthroughs that do not exist today.

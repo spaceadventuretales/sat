@@ -99,6 +99,18 @@ For example:
 - Use patrol and escort classes to ground law and violence.
 - Use capital classes sparingly so they keep narrative weight.
 
+## Visualization Reference
+
+**Bastion fleet carrier:** An enormous command warship with the footprint of a city district. Strike craft visible on external launch rails along each flank. Wrap field generator spines protrude above the dorsal hull. Escort vessels the size of office buildings are dwarfed beside it.
+
+**Prompt:** photorealistic hard science fiction, vast fleet carrier warship in orbit, city-district scale hull with strike craft on external launch rails, prominent wrap field generator spines, multiple escort cruisers nearby dwarfed by comparison, dramatic orbital lighting, cold space background, cinematic military science fiction, no fantasy elements
+
+---
+
+**Pilgrim liner:** A long civilian transport vessel with a wide habitat section, large observation galleries, and identifying route markings. Surrounded by smaller escort and customs craft at a gate hub approach lane.
+
+**Prompt:** photorealistic science fiction, large civilian passenger liner approaching a gate hub, wide habitat cylinder with observation gallery windows lit warm from inside, route identification markings on the hull, customs and escort vessels nearby, gate ring structure visible in the background, contrast between civilian warmth and cold deep space, cinematic composition
+
 ## Related Entries
 
 - [Starships Overview](./overview.md)
