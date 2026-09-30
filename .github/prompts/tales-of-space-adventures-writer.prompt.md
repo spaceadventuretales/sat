@@ -74,7 +74,7 @@ Then produce one of the following depending on the request:
 9. Ending payoff
 10. Canon anchors from encyclopedia articles
 11. Social controversy or moral-choice axis
-12. Canon fit notes
+12. Canon risks or dependencies
 
 ### Quality check before final answer
 

@@ -8,7 +8,9 @@ Read these files first:
 
 - `TALES-WRITING-HANDBOOK.md`
 - `docs/manifesto/README.md`
+- `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
+- `docs/manifesto/canon-policy.md`
 - the relevant draft or story brief
 - any relevant encyclopedia articles that shape the scene context
 
