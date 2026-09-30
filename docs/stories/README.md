@@ -1,11 +1,17 @@
-# Stories Placeholder
+# Stories Planning Hub
 
-This folder is a planning placeholder for future long-form Stories documentation assets.
+This folder stores planning assets for the Stories section.
 
 Live page route today: /stories
 Source file: src/pages/stories.mdx
 
-Planned content:
-- Story index and arcs
-- Reading order variants
-- Arc-level production notes
+## Current assets
+
+- `first-concept-pack-lantern-coast.md` - flagship SAT concept pack grounded in the existing encyclopedia canon
+
+## Intended growth
+
+- story index and arcs
+- reading order variants
+- arc-level production notes
+- canon handoff notes for encyclopedia updates
