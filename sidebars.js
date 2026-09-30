@@ -36,6 +36,19 @@ const sidebars = {
         'technologies/overview',
         {
           type: 'category',
+          label: 'Energy Systems',
+          items: [
+            'technologies/energy/overview',
+            'technologies/energy/annihilation-power',
+            'technologies/energy/antimatter-production-and-containment',
+            'technologies/energy/gravity-engineering',
+            'technologies/energy/antigravity-mirrors',
+            'technologies/energy/micro-fusion-cells',
+            'technologies/energy/energy-storage-and-transmission',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Health And Biotech',
           items: [
             'technologies/health/overview',
