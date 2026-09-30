@@ -13,6 +13,7 @@ const config = {
 
   organizationName: 'spaceadventuretales',
   projectName: 'sat',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
 
