@@ -85,6 +85,17 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Defense And Shielding',
+          items: [
+            'technologies/defense/overview',
+            'technologies/defense/defensive-fields-and-shield-systems',
+            'technologies/defense/armor-hulls-and-structural-survival',
+            'technologies/defense/point-defense-and-interception',
+            'technologies/defense/stealth-and-signature-management',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Energy Systems',
           items: [
             'technologies/energy/overview',

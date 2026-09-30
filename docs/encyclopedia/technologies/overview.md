@@ -10,6 +10,7 @@ Define scientific and engineering systems that power the universe.
 
 - [Artificial Intelligence Systems](./ai/overview.md)
 - [Communication Systems](./communications/overview.md)
+- [Defense And Shielding Systems](./defense/overview.md)
 - [Energy Systems](./energy/overview.md)
 - [Annihilation Power](./energy/annihilation-power.md)
 - [Gravity Engineering](./energy/gravity-engineering.md)
