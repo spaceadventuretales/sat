@@ -33,6 +33,11 @@ Health technology in the Space Adventures universe goes far beyond treating woun
 10. [Anabiosis](./anabiosis.md)
 11. [Engineered Non-Humanoid Beings](./engineered-non-humanoid-beings.md)
 
+## Nested Worldbuilding Layers
+
+- [Medical Institutions And Biotech Society](./society/overview.md)
+- [Bioethics, Law, And Illicit Practice](./ethics/overview.md)
+
 ## Canon Default
 
 These technologies are powerful enough to transform civilization, but not so easy that biology becomes meaningless. Access, cost, law, culture, and identity still matter.

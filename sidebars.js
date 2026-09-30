@@ -50,6 +50,24 @@ const sidebars = {
             'technologies/health/brain-preservation-restoration-and-identity',
             'technologies/health/anabiosis',
             'technologies/health/engineered-non-humanoid-beings',
+            {
+              type: 'category',
+              label: 'Society And Institutions',
+              items: [
+                'technologies/health/society/overview',
+                'technologies/health/society/hospitals-and-renewal-centers',
+                'technologies/health/society/biotech-powers-and-medical-factions',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Ethics And Law',
+              items: [
+                'technologies/health/ethics/overview',
+                'technologies/health/ethics/bioethics-and-continuity-law',
+                'technologies/health/ethics/illicit-biotech-and-forbidden-programs',
+              ],
+            },
           ],
         },
         {
