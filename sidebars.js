@@ -104,6 +104,25 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'New Worlds',
+          items: [
+            'technologies/new-worlds/overview',
+            'technologies/new-worlds/matter-conversion',
+            'technologies/new-worlds/planetary-reshaping-and-terraforming',
+            'technologies/new-worlds/planet-belly-buttons',
+            {
+              type: 'category',
+              label: 'Society And Failures',
+              items: [
+                'technologies/new-worlds/society/overview',
+                'technologies/new-worlds/society/world-maker-corporations',
+                'technologies/new-worlds/society/failed-and-abandoned-worlds',
+              ],
+            },
+          ],
+        },
+        {
+          type: 'category',
           label: 'Travel Systems',
           items: [
             'technologies/travels/overview',
