@@ -4,15 +4,45 @@
   position: relative;
   overflow: hidden;
   background:
-    radial-gradient(circle at 20% 30%, rgba(76, 201, 240, 0.2), transparent 45%),
-    radial-gradient(circle at 80% 10%, rgba(25, 135, 84, 0.22), transparent 40%),
-    linear-gradient(180deg, rgba(12, 27, 38, 0.96), rgba(18, 42, 53, 0.92));
+    radial-gradient(circle at 50% 40%, rgba(7, 23, 40, 0.08), rgba(7, 23, 40, 0.38) 58%, rgba(7, 23, 40, 0.56) 100%),
+    linear-gradient(180deg, rgba(5, 15, 28, 0.82), rgba(11, 38, 62, 0.78));
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.heroBackdrop {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(90deg, rgba(5, 15, 28, 0.42) 0%, rgba(5, 15, 28, 0.12) 18%, rgba(5, 15, 28, 0.1) 82%, rgba(5, 15, 28, 0.38) 100%),
+    linear-gradient(180deg, rgba(4, 12, 22, 0.24), rgba(4, 12, 22, 0.2)),
+    url('/img/hero-cinematic-v2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  opacity: 1;
+}
+
+.heroBanner :global(.container) {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+}
+
+.heroTitle {
+  font-family: 'Orbitron', 'Exo 2', 'Segoe UI', sans-serif;
+  color: #ffd2a1;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-shadow:
+    0 0 6px rgba(255, 170, 92, 0.95),
+    0 0 18px rgba(255, 120, 36, 0.86),
+    0 0 34px rgba(255, 84, 0, 0.64),
+    0 0 56px rgba(255, 122, 41, 0.45);
+}
+
+.heroBanner :global(.hero__subtitle) {
+  max-width: 700px;
+  margin: 0.8rem auto 0;
 }
 
 .buttons {
@@ -21,6 +51,33 @@
   justify-content: center;
   gap: 0.9rem;
   flex-wrap: wrap;
+  margin-top: 1.25rem;
+}
+
+.heroButton,
+.heroButtonAlt {
+  border: 1px solid rgba(199, 238, 255, 0.62);
+  color: #eaf9ff;
+  background: linear-gradient(135deg, rgba(18, 115, 170, 0.86), rgba(23, 195, 162, 0.79));
+  border-radius: 18px 26px 18px 24px;
+  box-shadow: 0 10px 24px rgba(4, 18, 36, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.24);
+  transition: transform 200ms ease, box-shadow 200ms ease, background 200ms ease;
+}
+
+.heroButtonAlt {
+  background: linear-gradient(130deg, rgba(9, 62, 96, 0.88), rgba(30, 88, 138, 0.82));
+}
+
+.heroButton:hover,
+.heroButtonAlt:hover {
+  color: #ffffff;
+  transform: translateY(-2px) scale(1.01);
+  box-shadow: 0 14px 30px rgba(5, 20, 39, 0.52), 0 0 18px rgba(94, 211, 255, 0.35);
+}
+
+.heroButton:active,
+.heroButtonAlt:active {
+  transform: translateY(0) scale(0.995);
 }
 
 .primarySection {
@@ -60,4 +117,40 @@
 [data-theme='dark'] .panel {
   background: linear-gradient(180deg, #122334, #182c3f);
   border-color: rgba(95, 185, 255, 0.25);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 4rem 1rem 3rem;
+  }
+
+  .heroBackdrop {
+    background-position: 33% center;
+  }
+
+  .heroTitle {
+    font-size: 2.05rem;
+    line-height: 1.2;
+  }
+
+  .buttons {
+    gap: 0.65rem;
+  }
+
+  .heroButton,
+  .heroButtonAlt {
+    width: 100%;
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .heroBackdrop {
+    background-position: 37% 44%;
+  }
+
+  .heroTitle {
+    font-size: 1.9rem;
+    letter-spacing: 0.04em;
+  }
 }

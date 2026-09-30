@@ -17,29 +17,29 @@ const HomeNewsItems = [
 ];
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <div className={styles.heroBackdrop} aria-hidden="true" />
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          Stories First. Universe Always.
+        <Heading as="h1" className={clsx('hero__title', styles.heroTitle)}>
+          Tales of Space Adventures
         </Heading>
         <p className="hero__subtitle">
           Tales of Space Adventures is a story and movie universe with a
           living reference encyclopedia.
         </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/stories">
+          <Link className={clsx('button button--lg', styles.heroButton)} to="/stories">
             Explore Stories
           </Link>
-          <Link className="button button--secondary button--lg" to="/movies">
+          <Link className={clsx('button button--lg', styles.heroButton)} to="/movies">
             Explore Movies
           </Link>
-          <Link className="button button--outline button--lg" to="/news">
+          <Link className={clsx('button button--lg', styles.heroButtonAlt)} to="/news">
             Latest News
           </Link>
           <Link
-            className="button button--outline button--lg"
+            className={clsx('button button--lg', styles.heroButtonAlt)}
             to="/encyclopedia/intro">
             Canon Encyclopedia
           </Link>

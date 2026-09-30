@@ -63,7 +63,7 @@ const config = {
         title: 'Tales of Space Adventures',
         logo: {
           alt: 'Tales of Space Adventures Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
