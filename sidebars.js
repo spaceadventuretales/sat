@@ -50,6 +50,7 @@ const sidebars = {
                 'technologies/ai/society/overview',
                 'technologies/ai/society/the-ai-economy-and-human-work',
                 'technologies/ai/society/ai-governance-institutions',
+                'technologies/ai/society/named-gray-zone-intelligences',
               ],
             },
             {
@@ -60,8 +61,26 @@ const sidebars = {
                 'technologies/ai/ethics/human-continuity-compact',
                 'technologies/ai/ethics/prohibited-sovereign-ai',
                 'technologies/ai/ethics/edge-cases-of-machine-personhood',
+                {
+                  type: 'category',
+                  label: 'Forbidden AI',
+                  items: [
+                    'technologies/ai/ethics/forbidden/overview',
+                    'technologies/ai/ethics/forbidden/underground-ai-movements-and-illegal-sovereign-labs',
+                  ],
+                },
               ],
             },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Communication Systems',
+          items: [
+            'technologies/communications/overview',
+            'technologies/communications/relay-lattices-and-tightbeam-networks',
+            'technologies/communications/courier-data-and-physical-message-transport',
+            'technologies/communications/presence-media-and-translation-meshes',
           ],
         },
         {

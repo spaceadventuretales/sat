@@ -16,6 +16,7 @@ These topics are separated from the root AI pages because labor systems, status 
 
 1. [The AI Economy And Human Work](./the-ai-economy-and-human-work.md)
 2. [AI Governance Institutions](./ai-governance-institutions.md)
+3. [Named Gray-Zone Intelligences](./named-gray-zone-intelligences.md)
 
 ## Scope
 

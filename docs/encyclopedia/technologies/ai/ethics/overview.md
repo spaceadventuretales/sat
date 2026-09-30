@@ -17,6 +17,7 @@ The answer is not optimism. The answer is doctrine, architecture, and fear learn
 1. [Human Continuity Compact](./human-continuity-compact.md)
 2. [Prohibited Sovereign AI](./prohibited-sovereign-ai.md)
 3. [Edge Cases Of Machine Personhood](./edge-cases-of-machine-personhood.md)
+4. [Forbidden AI Networks And Black Labs](./forbidden/overview.md)
 
 ## Scope
 
