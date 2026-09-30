@@ -7,7 +7,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'History',
-      items: ['history/overview', 'history/timeline', 'history/transport-history'],
+      items: ['history/overview', 'history/timeline', 'history/transport-history', 'history/ai-crisis-and-settlement'],
     },
     {
       type: 'category',
@@ -49,6 +49,7 @@ const sidebars = {
               items: [
                 'technologies/ai/society/overview',
                 'technologies/ai/society/the-ai-economy-and-human-work',
+                'technologies/ai/society/ai-governance-institutions',
               ],
             },
             {
@@ -58,6 +59,7 @@ const sidebars = {
                 'technologies/ai/ethics/overview',
                 'technologies/ai/ethics/human-continuity-compact',
                 'technologies/ai/ethics/prohibited-sovereign-ai',
+                'technologies/ai/ethics/edge-cases-of-machine-personhood',
               ],
             },
           ],

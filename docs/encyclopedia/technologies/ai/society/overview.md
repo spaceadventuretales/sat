@@ -15,6 +15,7 @@ These topics are separated from the root AI pages because labor systems, status 
 ## Current Entries
 
 1. [The AI Economy And Human Work](./the-ai-economy-and-human-work.md)
+2. [AI Governance Institutions](./ai-governance-institutions.md)
 
 ## Scope
 

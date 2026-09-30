@@ -10,6 +10,7 @@ Use this section to describe the grand narrative of Space Adventures:
 
 - [Master Timeline](./timeline.md)
 - [History Of Interstellar Transport](./transport-history.md)
+- [AI Crisis And Settlement Era](./ai-crisis-and-settlement.md)
 
 - Foundational ages
 - Expansion eras
