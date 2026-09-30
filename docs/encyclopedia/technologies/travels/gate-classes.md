@@ -88,3 +88,9 @@ As class increases:
 - [Hole Teleportation](./hole-teleportation.md)
 - [Travel Times, Safety, And Strategy](./travel-doctrine.md)
 - [Core Worlds, Gate Hubs, Frontier Corridors, And Dead Zones](./transport-geography.md)
+
+## Visualization Reference
+
+**Class IV Fortress Gate:** A military gate hardened with layered armor and active weapon emplacements. The ring structure is encased in a dreadnought-scale defense station. Patrol vessels hold formation around the approach corridor.
+
+**Prompt:** photorealistic hard science fiction, Class IV military fortress gate station in deep space, massive ring gate encased within a heavily armored defense station, weapon emplacements and sensor arrays studding the outer hull, patrol warships in tight formation around the approach corridor, dramatic cold starfield lighting, scale of a small moon, imposing and disciplined aesthetic, cinematic military science fiction

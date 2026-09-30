@@ -24,7 +24,7 @@ Wrong. Hole teleportation is more infrastructure-bound than wrap travel, not les
 
 ## Myth 4: Once a civilization has gates, wrap engines become obsolete
 
-Wrong. Gates make hubs stronger. Wrap engines keep the rest of civilization alive. Without wrap-capable ships, frontier systems, military patrols, exploration missions, and off-corridor trade would collapse.
+Wrong. Gates make hubs stronger. System drives and wrap engines keep the rest of civilization alive. Without wrap-capable ships, frontier systems, military patrols, exploration missions, and off-corridor trade would collapse. System drives alone cannot bridge interstellar distances on any human timescale.
 
 ## Myth 5: Instant travel means distance no longer matters
 

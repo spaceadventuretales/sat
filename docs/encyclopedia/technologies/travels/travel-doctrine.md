@@ -12,7 +12,7 @@ The Space Adventures universe uses two transport systems for extreme distance: w
 
 ## Quick Rule Of Thumb
 
-- Inside a star system: hours to days, usually by sublight drives and transfer craft
+- Inside a star system: hours to days, using system drives and transfer craft
 - Between nearby star systems by wrap: days to weeks
 - Across major galactic sectors by wrap: weeks to months
 - Through paired hole gates: effectively immediate once a transit slot is granted

@@ -77,7 +77,7 @@ The transport systems do not erase distance equally.
 
 - Gates collapse distance at specific engineered nodes.
 - Wrap engines reduce distance flexibly but at significant cost and risk.
-- Ordinary sublight movement still dominates local system logistics.
+- System drives dominate local in-system logistics at velocities far below the range where time effects become meaningful.
 
 As a result, civilization spreads like a network, not like a smooth blanket.
 

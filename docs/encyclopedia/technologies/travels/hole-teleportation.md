@@ -96,7 +96,16 @@ Most gate transits follow a rigid procedure:
 3. The vessel enters a controlled approach lane.
 4. The aperture is widened to safe passage profile.
 5. The vessel crosses the throat.
-6. Exit control captures, inspects, and disperses arriving traffic.
+6. Exit-side traffic control manages arrival vectors through a graduated deceleration buffer built into the throat geometry; ships do not emerge at arbitrary velocity. The aperture exit profile and field-tapering systems ensure safe arrival speed for the hull class in transit.
+7. Exit control captures, inspects, and disperses arriving traffic.
+
+The procedural weight of gate transit is one reason it feels bureaucratic to passengers. The travel itself is near-instant, but the queue, approach, inspection, and clearance process on both ends can take hours at busy hubs.
+
+## Visualization Reference
+
+**Scene:** A massive ring structure floating in deep space, its frame fitted with layered field emitters glowing blue-white along the circumference. Through the aperture, the starfield of a distant system is faintly visible as a shimmer of displaced spacetime. A merchant convoy approaches in a numbered lane, dwarfed by the ring scale.
+
+**Image prompt:** photorealistic hard science fiction, enormous ring gate station floating in deep space, circular frame with layered field emitter rings glowing blue-white, aperture interior showing a shimmering spacetime distortion revealing a different star system, merchant convoy vessels approaching in an ordered lane, scale contrast between ships and ring structure, dramatic lighting from emitters against cold starfield, cinematic composition, no fantasy elements
 
 This makes gate transit look effortless to passengers while remaining one of the most regulated processes in the known universe.
 

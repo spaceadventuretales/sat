@@ -9,6 +9,8 @@ Maintain a single canonical timeline reference here.
 ## Timeline model
 
 - Use one timeline unit across all docs.
+- The calendar unit **SA** stands for **Stellar Age**, counted forward from the Founding Accord at year 0.
+- Years before the Accord are written as negative values (e.g. -92 SA means 92 years before the Accord).
 - Record major events with date, actors, and consequences.
 - Link each event to detailed pages in other sections.
 
