@@ -36,6 +36,24 @@ const sidebars = {
         'technologies/overview',
         {
           type: 'category',
+          label: 'Health And Biotech',
+          items: [
+            'technologies/health/overview',
+            'technologies/health/body-renewal-and-soma-transfer',
+            'technologies/health/last-chance-cube',
+            'technologies/health/genetic-uplift-and-speciation',
+            'technologies/health/augmentation-and-cyborgization',
+            'technologies/health/nanomedical-repair-systems',
+            'technologies/health/cosmetic-biotech-and-living-aesthetics',
+            'technologies/health/autonomous-surgery-and-medical-robotics',
+            'technologies/health/rapid-diagnostics-and-on-demand-therapeutics',
+            'technologies/health/brain-preservation-restoration-and-identity',
+            'technologies/health/anabiosis',
+            'technologies/health/engineered-non-humanoid-beings',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Travel Systems',
           items: [
             'technologies/travels/overview',
