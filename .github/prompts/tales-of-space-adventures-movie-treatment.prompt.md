@@ -33,8 +33,9 @@ Create a cinematic treatment for a realistic sci-fi adventure romance movie in t
 9. Key set pieces
 10. Romance engine
 11. Villain or opposition logic without cartoon evil
-12. Ending payoff
-13. Continuity follow-up notes
+12. Social controversy or moral-choice axis
+13. Ending payoff
+14. Continuity follow-up notes
 
 ## Quality rules
 
@@ -42,4 +43,5 @@ Create a cinematic treatment for a realistic sci-fi adventure romance movie in t
 - settings should use named hubs, corridors, ship logic, or technologies already established where possible
 - action should be a core delivery vehicle for story, not optional decoration
 - humor should sharpen character chemistry, not dissolve stakes
+- if the film uses a social issue, stage it through consequential scenes rather than speeches
 - the ending must be hopeful and emotionally explicit

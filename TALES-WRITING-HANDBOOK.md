@@ -65,6 +65,7 @@ The prompt system currently supports these outputs:
 | Pattern selector prompt | You want help choosing and adapting a classic literature pattern for SAT | `.github/prompts/tales-of-space-adventures-pattern-selector.prompt.md` |
 | Style lab prompt | You want to choose a style lens, author-like influence, or movement-inspired tone without imitation | `.github/prompts/tales-of-space-adventures-style-lab.prompt.md` |
 | Humor and banter prompt | You want cleaner comic energy, charm, wit, or relief without weakening stakes | `.github/prompts/tales-of-space-adventures-humor-and-banter.prompt.md` |
+| Social controversy prompt | You want to inject moral conflict, divisive ideas, and discussion-worthy pressure into a tale | `.github/prompts/tales-of-space-adventures-social-controversy.prompt.md` |
 
 ## Literature pattern matrix
 
@@ -127,6 +128,42 @@ Avoid:
 
 The ideal result is charm, tension release, and character revelation, not stand-up comedy.
 
+## Social controversy and moral friction policy
+
+SAT stories can and should engage with difficult social questions when the story benefits from them.
+
+The goal is not sermonizing. The goal is to make readers argue, think, sympathize, take sides, revise those sides, and want to discuss the story afterward.
+
+Good controversy in SAT usually comes from:
+
+- migration pressure versus border control
+- security versus freedom
+- truth versus stability
+- elite access versus ordinary survival
+- bureaucracy versus human dignity
+- technological progress versus identity continuity
+- medical possibility versus moral cost
+- artificial scarcity versus engineered abundance
+- law versus mercy
+- loyalty to a person versus loyalty to a system
+
+Use moral friction this way:
+
+- make the issue personal through character cost
+- give the opposition an intelligent case, not a straw man
+- tie the debate to action and consequence
+- let romance intensify the disagreement rather than bypass it
+- keep enough ambiguity that thoughtful readers can split in their judgments
+
+Avoid:
+
+- direct political preaching detached from plot
+- simplistic present-day slogan swapping in a sci-fi costume
+- villains who exist only to embody a bad opinion
+- issue overload that weakens the adventure engine
+
+The reader should feel provoked, not manipulated.
+
 ## Action policy
 
 Adventure is the priority.
@@ -164,10 +201,11 @@ Do not use randomness as a substitute for surprise.
 2. Pick a classic pattern or SAT mode.
 3. Pick one or two style lenses.
 4. Decide how much humor the story can carry.
-5. Define the mission, the romance obstacle, and the promised ending payoff.
-6. Choose the right prompt file.
-7. Draft.
-8. Revise for pace, canon fit, reversals, humor control, and ending payoff.
+5. Decide whether the story needs a moral controversy or social-pressure axis.
+6. Define the mission, the romance obstacle, and the promised ending payoff.
+7. Choose the right prompt file.
+8. Draft.
+9. Revise for pace, canon fit, reversals, humor control, controversy balance, and ending payoff.
 
 ## Practical starting commands
 

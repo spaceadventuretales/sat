@@ -24,9 +24,10 @@ Rewrite a SAT scene to improve momentum, romance tension, realism, memorability,
 2. sharpen objective and stakes
 3. make the romance affect decisions
 4. improve wit, charm, or banter where appropriate without breaking tension
-5. increase concreteness of setting and technology
-6. preserve or improve canon fit with encyclopedia articles
-7. end the scene with stronger forward pull
+5. sharpen any moral conflict or social controversy into character pressure
+6. increase concreteness of setting and technology
+7. preserve or improve canon fit with encyclopedia articles
+8. end the scene with stronger forward pull
 
 ## Output format
 

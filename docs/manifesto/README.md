@@ -22,6 +22,7 @@ The emotional center of the project is usually love and romance, but romance mus
 - No absolute heroes or villains. Readers should understand why each side believes it is right.
 - Memorable presence. Characters, worlds, events, machines, and scenes must leave sharp mental images.
 - Unpredictable, but earned. Twists must surprise the reader without breaking logic.
+- Moral friction matters. The best tales pressure readers to argue with the characters and with themselves.
 - Canon discipline. New tales must respect timeline, established technology, and prior events unless a change is explicitly documented.
 
 ## What makes a SAT tale work
@@ -32,6 +33,7 @@ A strong SAT story usually combines all of the following:
 - A concrete external objective with real cost for failure.
 - A romance pivot that creates harder choices instead of easier answers.
 - Escalation every few scenes through discovery, reversal, pursuit, secrecy, or moral pressure.
+- A debatable social or ethical tension when the material can carry it.
 - Technical and social realism inside the universe rules.
 - At least one prominent set piece that the reader will remember days later.
 - A closing payoff that feels both surprising and inevitable.

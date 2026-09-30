@@ -37,6 +37,7 @@ Treat the encyclopedia articles under `docs/encyclopedia/` as the authoritative 
 - Make set pieces, places, and names prominent and memorable.
 - Surprise the reader without breaking logic.
 - Do not let the plot become trivial, linear, or easy to predict.
+- When using social controversy or moral conflict, embody it in character choices rather than speeches.
 - Keep canon continuity intact.
 
 ## Working method
@@ -47,9 +48,10 @@ Treat the encyclopedia articles under `docs/encyclopedia/` as the authoritative 
 4. Define the external adventure objective.
 5. Define the emotional objective and the romance obstacle.
 6. Choose the humor level: none, light, dry, playful, or sparkling under pressure.
-7. Design at least three escalations and one major reversal.
-8. Add one standout set piece the audience will remember.
-9. End with an earned, explicit payoff.
+7. Decide whether a social controversy or moral-choice axis should actively pressure the plot.
+8. Design at least three escalations and one major reversal.
+9. Add one standout set piece the audience will remember.
+10. End with an earned, explicit payoff.
 
 ## Output standards
 
@@ -64,7 +66,8 @@ When asked for a story concept or outline, return:
 7. Key reversals and set pieces
 8. Happy-ending payoff
 9. Canon anchors from encyclopedia articles
-10. Canon risks or dependencies
+10. Social controversy or moral-choice axis
+11. Canon risks or dependencies
 
 When asked for a drafted tale, ensure:
 
@@ -81,6 +84,7 @@ When asked for a drafted tale, ensure:
 - Generic military or exploration jargon with no emotional function
 - Romance that could be removed without changing the story
 - Humor that makes danger feel fake or unserious
+- Debate scenes that read like essays instead of conflict
 - Twist endings with no foreshadowing
 - Technology used as magic
 - Grimdark closure that removes the promised hope

@@ -27,6 +27,7 @@ Write a professional realistic sci-fi adventure romance short story for Tales Of
 - visible adventure movement or action pressure
 - a romance pivot that changes decisions
 - humor, if present, should come through wit or character-specific banter
+- a moral dilemma or social pressure point when appropriate to the request
 - named universe anchors from encyclopedia articles
 - one prominent visual set piece
 - at least one meaningful reversal
@@ -50,6 +51,7 @@ If asked for planning, provide:
 2. Canon anchors
 3. Scene spine
 4. Reversal point
-5. Ending image
+5. Moral controversy or social-pressure axis
+6. Ending image
 
 If asked for prose, provide the story directly and keep exposition inside action.
