@@ -25,6 +25,7 @@ Naming convention used in this project:
 - Root planning placeholders: docs/stories/, docs/movies/, docs/news/, docs/community/, docs/manifesto/, docs/motivation/
 - News posts: blog/
 - Route pages: src/pages/
+- Root writing handbook: TALES-WRITING-HANDBOOK.md
 
 ## Development
 

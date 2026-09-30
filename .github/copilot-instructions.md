@@ -14,10 +14,11 @@ Build and maintain a long-term sci-fi universe portal with three major products:
 
 When creating or editing docs, prioritize canon consistency:
 
-- Keep timeline references consistent with `docs/history/timeline.md`.
+- Keep timeline references consistent with `docs/encyclopedia/history/timeline.md`.
 - Cross-link related pages (characters, worlds, factions, events, technology).
 - Prefer short, structured sections over long unstructured prose.
 - Preserve naming conventions once established.
+- For story drafting guidance, consult `docs/manifesto/` and `.agents/skills/tales-of-space-adventures-storytelling/SKILL.md`.
 
 ## Encyclopedia taxonomy
 
