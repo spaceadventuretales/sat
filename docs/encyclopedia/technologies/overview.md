@@ -9,6 +9,8 @@ Define scientific and engineering systems that power the universe.
 ## Current catalog
 
 - [Energy Systems](./energy/overview.md)
+- [Annihilation Power](./energy/annihilation-power.md)
+- [Gravity Engineering](./energy/gravity-engineering.md)
 - [Health, Longevity, And Biotech](./health/overview.md)
 - [Travel Systems](./travels/overview.md)
 - [Wrap Engine](./travels/wrap-engine.md)

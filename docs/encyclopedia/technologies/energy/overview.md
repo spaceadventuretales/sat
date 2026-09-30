@@ -23,10 +23,16 @@ Advanced civilization in the Space Adventures universe is limited less by intell
 
 1. [Annihilation Power](./annihilation-power.md)
 2. [Antimatter Production And Containment](./antimatter-production-and-containment.md)
-3. [Gravity Engineering](./gravity-engineering.md)
-4. [Antigravity Mirrors](./antigravity-mirrors.md)
-5. [Micro-Fusion Cells](./micro-fusion-cells.md)
-6. [Energy Storage And Transmission](./energy-storage-and-transmission.md)
+3. [Antimatter Foundries, Traps, And Casks](./antimatter-foundries-traps-and-casks.md)
+4. [Gravity Engineering](./gravity-engineering.md)
+5. [Antigravity Mirrors](./antigravity-mirrors.md)
+6. [Micro-Fusion Cells](./micro-fusion-cells.md)
+7. [Energy Storage And Transmission](./energy-storage-and-transmission.md)
+
+## Nested Worldbuilding Layers
+
+- [Energy Infrastructure And Power Society](./society/overview.md)
+- [Energy Ethics, Law, And Strategic Risk](./ethics/overview.md)
 
 ## Canon Default
 

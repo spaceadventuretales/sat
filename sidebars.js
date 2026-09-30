@@ -41,10 +41,29 @@ const sidebars = {
             'technologies/energy/overview',
             'technologies/energy/annihilation-power',
             'technologies/energy/antimatter-production-and-containment',
+            'technologies/energy/antimatter-foundries-traps-and-casks',
             'technologies/energy/gravity-engineering',
             'technologies/energy/antigravity-mirrors',
             'technologies/energy/micro-fusion-cells',
             'technologies/energy/energy-storage-and-transmission',
+            {
+              type: 'category',
+              label: 'Society And Infrastructure',
+              items: [
+                'technologies/energy/society/overview',
+                'technologies/energy/society/named-energy-infrastructure',
+                'technologies/energy/society/power-authorities-and-energy-blocs',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Ethics And Law',
+              items: [
+                'technologies/energy/ethics/overview',
+                'technologies/energy/ethics/annihilation-safety-and-proliferation-law',
+                'technologies/energy/ethics/energy-inequality-and-infrastructure-control',
+              ],
+            },
           ],
         },
         {
