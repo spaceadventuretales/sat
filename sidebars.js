@@ -7,7 +7,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'History',
-      items: ['history/overview', 'history/timeline', 'history/transport-history'],
+      items: ['history/overview', 'history/timeline', 'history/transport-history', 'history/ai-crisis-and-settlement'],
     },
     {
       type: 'category',
@@ -34,6 +34,66 @@ const sidebars = {
       label: 'Technologies',
       items: [
         'technologies/overview',
+        {
+          type: 'category',
+          label: 'AI Systems',
+          items: [
+            'technologies/ai/overview',
+            'technologies/ai/pervasive-cognitive-infrastructure',
+            'technologies/ai/bounded-artificial-cognition',
+            'technologies/ai/robotic-agency-and-machine-bodies',
+            'technologies/ai/human-ai-symbiosis',
+            {
+              type: 'category',
+              label: 'Society And Work',
+              items: [
+                'technologies/ai/society/overview',
+                'technologies/ai/society/the-ai-economy-and-human-work',
+                'technologies/ai/society/ai-governance-institutions',
+                'technologies/ai/society/named-gray-zone-intelligences',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Ethics And Survival',
+              items: [
+                'technologies/ai/ethics/overview',
+                'technologies/ai/ethics/human-continuity-compact',
+                'technologies/ai/ethics/prohibited-sovereign-ai',
+                'technologies/ai/ethics/edge-cases-of-machine-personhood',
+                {
+                  type: 'category',
+                  label: 'Forbidden AI',
+                  items: [
+                    'technologies/ai/ethics/forbidden/overview',
+                    'technologies/ai/ethics/forbidden/underground-ai-movements-and-illegal-sovereign-labs',
+                  ],
+                },
+              ],
+            },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Communication Systems',
+          items: [
+            'technologies/communications/overview',
+            'technologies/communications/relay-lattices-and-tightbeam-networks',
+            'technologies/communications/courier-data-and-physical-message-transport',
+            'technologies/communications/presence-media-and-translation-meshes',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Defense And Shielding',
+          items: [
+            'technologies/defense/overview',
+            'technologies/defense/defensive-fields-and-shield-systems',
+            'technologies/defense/armor-hulls-and-structural-survival',
+            'technologies/defense/point-defense-and-interception',
+            'technologies/defense/stealth-and-signature-management',
+          ],
+        },
         {
           type: 'category',
           label: 'Energy Systems',
