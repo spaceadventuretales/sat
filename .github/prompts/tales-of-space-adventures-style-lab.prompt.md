@@ -8,7 +8,9 @@ Read these files first:
 
 - `TALES-WRITING-HANDBOOK.md`
 - `docs/manifesto/README.md`
+- `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
+- `docs/manifesto/canon-policy.md`
 - relevant encyclopedia articles for the intended setting
 
 Treat style as a controllable design dimension separate from plot pattern.

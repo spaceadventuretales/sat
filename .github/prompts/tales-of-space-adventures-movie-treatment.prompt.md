@@ -20,22 +20,33 @@ Treat encyclopedia articles as the official source for how the universe works.
 
 Create a cinematic treatment for a realistic sci-fi adventure romance movie in the SAT universe.
 
+## If underspecified, ask about
+
+1. Target runtime or length (short feature, feature, long-form serial)?
+2. Timeline placement in the SAT universe?
+3. Protagonist pair or ensemble?
+4. Preferred story mode?
+5. Romance intensity versus action intensity?
+6. Desired social controversy or moral-choice axis, if any?
+7. Style lens if any (see `TALES-WRITING-HANDBOOK.md`)?
+
 ## Required treatment structure
 
 1. Title options
 2. Logline
 3. Tone and visual identity
-4. Canon anchors from encyclopedia articles
-5. Main characters and emotional conflicts
-6. Act I
-7. Act II
-8. Act III
-9. Key set pieces
-10. Romance engine
-11. Villain or opposition logic without cartoon evil
-12. Social controversy or moral-choice axis
-13. Ending payoff
-14. Continuity follow-up notes
+4. Primary and secondary story modes
+5. Canon anchors from encyclopedia articles
+6. Main characters and emotional conflicts
+7. Act I
+8. Act II
+9. Act III
+10. Key set pieces
+11. Romance engine
+12. Villain or opposition logic without cartoon evil
+13. Social controversy or moral-choice axis
+14. Ending payoff
+15. Continuity follow-up notes
 
 ## Quality rules
 

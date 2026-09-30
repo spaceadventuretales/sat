@@ -8,6 +8,7 @@ Read these files first:
 
 - `TALES-WRITING-HANDBOOK.md`
 - `docs/manifesto/README.md`
+- `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
 - `docs/manifesto/canon-policy.md`
 - any relevant encyclopedia articles tied to the scene
@@ -28,6 +29,12 @@ Rewrite a SAT scene to improve momentum, romance tension, realism, memorability,
 6. increase concreteness of setting and technology
 7. preserve or improve canon fit with encyclopedia articles
 8. end the scene with stronger forward pull
+
+## If underspecified, ask about
+
+1. Which dimension most needs improvement: momentum, romance tension, canon fit, humor, or moral pressure?
+2. Any hard constraints that must not change (plot beat, character position, canon anchor)?
+3. Target story mode if known — it affects appropriate register, pace, and humor level.
 
 ## Output format
 

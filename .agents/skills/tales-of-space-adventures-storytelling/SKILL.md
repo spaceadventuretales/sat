@@ -1,3 +1,9 @@
+---
+name: tales-of-space-adventures-storytelling
+description: Use when drafting, outlining, reviewing, or revising fiction for Tales Of Space Adventures. Produces realistic sci-fi adventure romance with strong momentum, complex morality, memorable set pieces, and a hopeful ending.
+applyTo: "docs/**,TALES-WRITING-HANDBOOK.md"
+---
+
 # Tales Of Space Adventures Storytelling Skill
 
 Use this skill when drafting, outlining, reviewing, or revising fiction for Tales Of Space Adventures.

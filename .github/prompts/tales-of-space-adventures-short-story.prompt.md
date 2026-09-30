@@ -48,10 +48,11 @@ Ask concise questions about:
 If asked for planning, provide:
 
 1. Logline
-2. Canon anchors
-3. Scene spine
-4. Reversal point
-5. Moral controversy or social-pressure axis
-6. Ending image
+2. Primary and secondary story modes
+3. Canon anchors
+4. Scene spine
+5. Reversal point
+6. Moral controversy or social-pressure axis
+7. Ending image
 
 If asked for prose, provide the story directly and keep exposition inside action.
