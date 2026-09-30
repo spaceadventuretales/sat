@@ -36,6 +36,34 @@ const sidebars = {
         'technologies/overview',
         {
           type: 'category',
+          label: 'AI Systems',
+          items: [
+            'technologies/ai/overview',
+            'technologies/ai/pervasive-cognitive-infrastructure',
+            'technologies/ai/bounded-artificial-cognition',
+            'technologies/ai/robotic-agency-and-machine-bodies',
+            'technologies/ai/human-ai-symbiosis',
+            {
+              type: 'category',
+              label: 'Society And Work',
+              items: [
+                'technologies/ai/society/overview',
+                'technologies/ai/society/the-ai-economy-and-human-work',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Ethics And Survival',
+              items: [
+                'technologies/ai/ethics/overview',
+                'technologies/ai/ethics/human-continuity-compact',
+                'technologies/ai/ethics/prohibited-sovereign-ai',
+              ],
+            },
+          ],
+        },
+        {
+          type: 'category',
           label: 'Energy Systems',
           items: [
             'technologies/energy/overview',
