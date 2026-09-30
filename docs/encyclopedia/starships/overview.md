@@ -6,6 +6,12 @@ sidebar_position: 1
 
 Track all ship classes from personal craft to capital fleets.
 
+## Current catalog
+
+- [Wrap-Capable Starships](./wrap-capable-starships.md)
+- [Named Ship Classes](./ship-classes.md)
+- [Notable Vessels](./notable-vessels.md)
+
 ## Recommended details
 
 - Class and generation

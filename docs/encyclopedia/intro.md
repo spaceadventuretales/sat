@@ -8,6 +8,18 @@ Welcome to the canonical reference layer for the Space Adventures universe.
 
 Stories and movies live in their own sections. This encyclopedia exists to keep continuity stable while narrative content grows.
 
+## What canon means here
+
+In this project, canon means the official facts of the Space Adventures universe.
+
+If something is recorded in the encyclopedia as established lore, it should stay consistent across stories, timelines, technologies, ships, places, and characters unless it is intentionally revised later.
+
+Think of it this way:
+
+- canon: officially true in the universe
+- draft: an idea still being shaped
+- non-canon: an alternative version, experiment, or discarded concept
+
 This reference is organized around:
 
 - History and timeline continuity
