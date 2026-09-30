@@ -55,3 +55,11 @@ Use this checklist before calling a tale ready for publication or adaptation.
 - Timeline placement is known.
 - References to worlds, factions, technologies, and prior events are consistent.
 - If canon changes, the change is documented with rationale.
+
+## Critique gate
+
+- The draft has been checked against `docs/manifesto/critique-checklist.md`.
+- Clear strengths worth preserving have been identified before revision.
+- The biggest problems are ranked by severity rather than mixed together.
+- AI-generation red flags have been explicitly checked and addressed.
+- The next revision pass has a concrete prompt or action list.

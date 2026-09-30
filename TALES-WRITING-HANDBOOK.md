@@ -66,6 +66,7 @@ The prompt system currently supports these outputs:
 | Style lab prompt | You want to choose a style lens, author-like influence, or movement-inspired tone without imitation | `.github/prompts/tales-of-space-adventures-style-lab.prompt.md` |
 | Humor and banter prompt | You want cleaner comic energy, charm, wit, or relief without weakening stakes | `.github/prompts/tales-of-space-adventures-humor-and-banter.prompt.md` |
 | Social controversy prompt | You want to inject moral conflict, divisive ideas, and discussion-worthy pressure into a tale | `.github/prompts/tales-of-space-adventures-social-controversy.prompt.md` |
+| Story critique prompt | You want a professional-quality review report with red flags, strengths, and a follow-up revision prompt | `.github/prompts/tales-of-space-adventures-story-critique.prompt.md` |
 
 ## Literature pattern matrix
 
@@ -195,6 +196,23 @@ Use these tools:
 
 Do not use randomness as a substitute for surprise.
 
+## Critique and validation workflow
+
+Writing prompts are only half the system. SAT also needs deliberate validation.
+
+Use the critique system after outlines, chapters, scenes, and full drafts.
+
+- The checklist lives in `docs/manifesto/critique-checklist.md`.
+- The reusable review prompt lives in `.github/prompts/tales-of-space-adventures-story-critique.prompt.md`.
+
+The review should always capture:
+
+- strengths worth preserving
+- ranked problems by severity
+- AI-generation red flags
+- discussion value and moral pressure quality
+- one ready-to-use next revision prompt
+
 ## Working workflow for AI-assisted writing
 
 1. Read the handbook, manifesto, and relevant encyclopedia pages.
@@ -206,6 +224,7 @@ Do not use randomness as a substitute for surprise.
 7. Choose the right prompt file.
 8. Draft.
 9. Revise for pace, canon fit, reversals, humor control, controversy balance, and ending payoff.
+10. Run the critique prompt and use its report for the next revision pass.
 
 ## Practical starting commands
 
