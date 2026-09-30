@@ -53,6 +53,14 @@ Serve built site:
 npm run serve
 ```
 
+Deploy to GitHub Pages:
+
+```bash
+GIT_USER=spaceadventuretales npm run deploy
+```
+
+For the full GitHub Pages and custom subdomain setup, see [DEPLOYMENT.md](./DEPLOYMENT.md).
+
 ## Notes
 
 - This repository intentionally avoids Docusaurus starter demo pages/components.
