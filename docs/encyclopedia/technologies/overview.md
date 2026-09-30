@@ -15,6 +15,7 @@ Define scientific and engineering systems that power the universe.
 - [Core Worlds, Gate Hubs, Frontier Corridors, And Dead Zones](./travels/transport-geography.md)
 - [Gate Classes](./travels/gate-classes.md)
 - [FTL Myths And Misconceptions](./travels/ftl-myths.md)
+- [Major Gate Hubs And Frontier Corridors](./travels/major-hubs-and-corridors.md)
 
 ## Suggested categories
 

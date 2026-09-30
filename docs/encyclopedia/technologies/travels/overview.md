@@ -27,11 +27,13 @@ Without advanced travel systems, even nearby stars remain politically and econom
 4. [Core Worlds, Gate Hubs, Frontier Corridors, And Dead Zones](./transport-geography.md)
 5. [Gate Classes](./gate-classes.md)
 6. [FTL Myths And Misconceptions](./ftl-myths.md)
+7. [Major Gate Hubs And Frontier Corridors](./major-hubs-and-corridors.md)
 
 ## Related Starship Entry
 
 - [Wrap-Capable Starships](../../starships/wrap-capable-starships.md)
 - [Named Ship Classes](../../starships/ship-classes.md)
+- [Notable Vessels](../../starships/notable-vessels.md)
 
 ## Forthcoming Entries
 

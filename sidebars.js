@@ -7,7 +7,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'History',
-      items: ['history/overview', 'history/timeline'],
+      items: ['history/overview', 'history/timeline', 'history/transport-history'],
     },
     {
       type: 'category',
@@ -45,6 +45,7 @@ const sidebars = {
             'technologies/travels/transport-geography',
             'technologies/travels/gate-classes',
             'technologies/travels/ftl-myths',
+            'technologies/travels/major-hubs-and-corridors',
           ],
         },
       ],
@@ -61,6 +62,7 @@ const sidebars = {
         'starships/overview',
         'starships/wrap-capable-starships',
         'starships/ship-classes',
+        'starships/notable-vessels',
       ],
     },
     {

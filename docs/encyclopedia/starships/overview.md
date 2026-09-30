@@ -10,6 +10,7 @@ Track all ship classes from personal craft to capital fleets.
 
 - [Wrap-Capable Starships](./wrap-capable-starships.md)
 - [Named Ship Classes](./ship-classes.md)
+- [Notable Vessels](./notable-vessels.md)
 
 ## Recommended details
 
