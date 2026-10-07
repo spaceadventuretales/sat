@@ -14,6 +14,8 @@ keywords:
 
 # Wrap Engine
 
+![Deep-space vessel entering wrap transition](https://img.sat.place/encyclopedia/technologies/travels/wrap-engine-ship.webp)
+
 The wrap engine is the foundational faster-than-light travel system of the Space Adventures universe. In simple terms, it does not make a ship race through space faster than light in the usual way. Instead, it changes the shape of space around the ship so the ship can cross enormous distances while remaining locally slow and survivable.
 
 For everyday people, the easiest picture is this: a normal engine pushes a ship through space, but a wrap engine moves space around the ship.
@@ -98,11 +100,14 @@ Major open problems in real science include:
 
 Because of these issues, the wrap engine remains hypothetical in real science.
 
+<!--
 ## Visualization Reference
 
 **Scene:** A deep-space vessel mid-transition into wrap. The ship is surrounded by a shimmering distortion shell. Stars ahead are compressed into concentric blue-shifted arcs. Stars behind stretch and redden. The hull glows along field-emitter spines running its length.
 
 **Image prompt:** photorealistic hard science fiction, deep space vessel entering FTL wrap transition, ship surrounded by a shimmering spacetime distortion bubble, stars ahead compressed into bright blue-shifted rings, stars behind stretching red, field emitter structures glowing along hull spines, dramatic contrast between ship and stellar compression effect, cold deep space background, cinematic realism, no fantasy aesthetics
+
+-->
 
 ## Why It Becomes Possible In The Tales
 
@@ -147,6 +152,8 @@ Wrap travel is flexible because it can be used from many ordinary systems withou
 
 ## Wrap Engine Versus Hole Teleportation
 
+![Infographic style comparison of travel methods](https://img.sat.place/encyclopedia/technologies/travels/comparison-of-travel-methods.webp)
+
 The two technologies complement each other.
 
 | Technology | Best use | Main advantage | Main limitation |
@@ -184,6 +191,7 @@ If explained to a passenger rather than a physicist:
 - [Technologies Overview](../overview.md)
 - Hole teleportation: forthcoming article
 
+<!--
 ## Illustration Placeholders
 
 Use the following prompts to generate art later. These are placeholders only and are intentionally written for image-generation workflows.
@@ -211,7 +219,7 @@ Create a clean sci-fi infographic illustration comparing three space travel mode
 ```text
 Create a detailed interior sci-fi engineering scene showing the core chamber of a wrap engine. Include ring-shaped field projectors, annihilation power conduits, metric stabilizers, dense shielding, and technicians observing a holographic spacetime model. Style: industrial hard sci-fi, realistic materials, high detail, dramatic lighting, no text.
 ```
-
+-->
 ## Production Notes
 
 - Real-science inspiration: Alcubierre warp-drive geometry, later positive-energy and subluminal warp-field research, and the known effects of relativistic time dilation.
