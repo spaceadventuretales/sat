@@ -40,6 +40,20 @@ The mirror is not a perpetual-motion machine.
 
 So the setting gets spectacular lift without erasing cost, risk, or infrastructure.
 
+## Scientific Basis
+
+Unlike the wrap engine, which is grounded in a real (if highly speculative) theoretical framework related to spacetime metric engineering, the antigravity mirror has no direct current physical theory to justify it.
+
+Real-world evidence now confirms that antimatter falls downward under gravity just as ordinary matter does, so the device is not a side effect of antimatter physics either.
+
+The setting treats antigravity mirror technology as an engineering discovery that future physics will eventually explain — in the same way that practical steam engineers worked with heat and pressure long before thermodynamics was formalized as a mathematical science. The technology works. The deep theory is not fully written yet.
+
+## Visualization Reference
+
+**Scene:** An enormous atmospheric cargo freighter the size of an ocean vessel drifting silently over a low-altitude city skyline. Its flat underside is fitted with arrays of matte-gray field panels emitting a faint blue shimmer. Smaller personal vehicles pass far below.
+
+**Image prompt:** photorealistic hard science fiction, massive cargo airship the scale of an ocean liner hovering over a dense futuristic city, flat underside with rows of matte-gray antigravity field emitters glowing faint blue, personal air vehicles visible at street level far below, overcast sky, dramatic scale contrast between industrial ship and city, cinematic lighting, no fantasy elements
+
 ## Relationship To Energy
 
 The reason these vehicles can approach near-zero operational energy for lift is that the field shoulders most of the gravitational burden. Energy is still spent on control, movement, life support, payload systems, and safety margins. "Almost free flight" really means "lift is no longer the dominant expense."
