@@ -14,6 +14,8 @@ keywords:
 
 # System Drives And Local Propulsion
 
+![fusion torch drive ship](https://img.sat.place/encyclopedia/technologies/travels/fusion-torch-drive-ship.webp)
+
 Every ship in the Space Adventures universe carries system drives. They are not the headline technology. Wrap engines and hole teleportation take that role. But system drives are the propulsion layer that is actually running almost all the time: during orbital maneuvers, station approaches, gravity-well transits, convoy formations, and the stretch of open space between where a ship drops out of wrap and where it is actually going.
 
 ## The Key Distinction From FTL Technology
@@ -84,12 +86,15 @@ These times assume practical drive operation, not theoretical maximum thrust. Re
 
 Every vessel in the setting has system drives. They are background infrastructure, not story-worthy technology in themselves — unless a failure, chase, or combat maneuver makes the drive margin suddenly matter.
 
+
+<!--
 ## Visualization Reference
+
 
 **Scene:** A fusion torch drive ship accelerating away from a gas giant, its aft drive plume forming a brilliant blue-white cone against the planetary dark. A smaller escort vessel burns in parallel formation, its plume geometry slightly different from the cargo hauler's.
 
 **Image prompt:** photorealistic hard science fiction, cargo ship with fusion torch drive plume accelerating away from a gas giant in deep space, brilliant blue-white directed exhaust cone, smaller escort vessel in parallel formation with slightly different drive geometry, dramatic contrast between drive light and planetary shadow, cinematic deep space lighting, no fantasy elements
-
+-->
 ## Related Entries
 
 - [Wrap Engine](./wrap-engine.md)
