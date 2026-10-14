@@ -23,8 +23,8 @@ jobs:
           node-version: 24
           cache: npm
 
-      - name: Use known-compatible npm
-        run: npm install --global npm@11.13.0
+      - name: Show node version
+        run: node --version
 
       - name: Show npm version
         run: npm --version
@@ -39,7 +39,7 @@ jobs:
           restore-keys: |
             docusaurus-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
 
-      - run: npm ci
+      - run: npm i
       - run: npm run build
 
       - name: Deploy to Cloudflare Pages
