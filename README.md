@@ -53,13 +53,12 @@ Serve built site:
 npm run serve
 ```
 
-Deploy to GitHub Pages:
+Deploy to Cloudflare Pages:
 
 ```bash
-GIT_USER=spaceadventuretales npm run deploy
+CLOUDFLARE_API_TOKEN=${{ secrets.CLOUDFLARE_API_TOKEN }} CLOUDFLARE_ACCOUNT_ID=${{ secrets.CLOUDFLARE_ACCOUNT_ID }} npm run deploy
 ```
 
-For the full GitHub Pages and custom subdomain setup, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 
 ## Notes
 

@@ -8,12 +8,12 @@ const config = {
   tagline: 'Stories and movies first, with a living canon encyclopedia',
   favicon: 'img/favicon.ico',
 
-  url: 'https://sat.engilyin.com',
+  url: 'https://sat.place',
   baseUrl: '/',
 
-  organizationName: 'spaceadventuretales',
-  projectName: 'sat',
-  deploymentBranch: 'gh-pages',
+  customFields: {
+    imgBase: 'https://img.sat.place',
+  },
 
   onBrokenLinks: 'throw',
 
@@ -149,7 +149,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Tales of Space Adventures. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Alex Ilin. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
