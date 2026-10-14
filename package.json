@@ -6,7 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "docusaurus deploy",
+    "deploy": "npm run build && wrangler pages deploy build --project-name=sat",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve"
   },
