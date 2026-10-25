@@ -12,6 +12,8 @@ The last chance cube is a brutal but lifesaving emergency device used when the b
 
 In plain terms, it is designed to sever, stabilize, seal, sedate, and preserve the head and brain long enough for later reconstruction or full body renewal.
 
+![Last Chance Cube](https://img.sat.place/encyclopedia/technologies/health/last-chance-cube.webp)
+
 ## Summary
 
 - use case: catastrophic injury with no viable full-body extraction

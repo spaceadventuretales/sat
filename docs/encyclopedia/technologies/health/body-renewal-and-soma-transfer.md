@@ -10,6 +10,8 @@ slug: /technologies/health/body-renewal-and-soma-transfer
 
 Body renewal is one of the defining medical revolutions of the Space Adventures universe. Its core promise is simple and civilization-changing: a person whose brain remains viable no longer has to accept the death of the body as final.
 
+![Futuristic Biotech Regeneration Lab](https://img.sat.place/encyclopedia/technologies/health/futuristic-biotech-regeneration-lab.webp)
+
 ## Summary
 
 - healthy replacement bodies can be grown or printed from a person's DNA template
