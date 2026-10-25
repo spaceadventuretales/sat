@@ -10,6 +10,8 @@ slug: /technologies/health/cosmetic-biotech-and-living-aesthetics
 
 When medicine can rebuild tissue, appearance becomes editable too. Cosmetic biotech is the everyday, cultural, and often frivolous face of the same science that also cures disease and extends life.
 
+![Cosmetic Biotech And Living Aesthetics](https://img.sat.place/encyclopedia/technologies/health/cosmetic-biotech-and-living-aesthetics.webp)
+
 ## Common Capabilities
 
 - age-suppressing skin and muscle renovation creams

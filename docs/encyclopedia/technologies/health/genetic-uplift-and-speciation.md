@@ -10,6 +10,8 @@ slug: /technologies/health/genetic-uplift-and-speciation
 
 Once genomic engineering became precise, stable, and inheritable, medicine ceased to be only about healing existing bodies. It became a tool for creating new forms of life.
 
+![Genetic Uplift And Speciation](https://img.sat.place/encyclopedia/technologies/health/genetic-uplift-and-speciation.webp)
+
 ## Summary
 
 - animals can be uplifted to human-grade intelligence

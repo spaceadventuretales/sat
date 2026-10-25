@@ -10,6 +10,8 @@ slug: /technologies/health/brain-preservation-restoration-and-identity
 
 The greatest limit of advanced medicine is no longer the body. It is the mind.
 
+![Brain Preservation And Restoration](https://img.sat.place/encyclopedia/technologies/health/brain-preservation-restoration-and-identity.webp)
+
 ## Brain Preservation
 
 As long as the brain remains structurally recoverable, advanced medicine can often preserve cognition, memory, and personal continuity long enough for reconstruction. This is why trauma stabilization systems prioritize the brain above everything else.

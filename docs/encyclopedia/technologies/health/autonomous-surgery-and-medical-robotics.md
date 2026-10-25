@@ -10,6 +10,8 @@ slug: /technologies/health/autonomous-surgery-and-medical-robotics
 
 In advanced medical systems, most high-precision surgery is performed by robotic platforms rather than unaided human hands.
 
+![Autonomous Surgery And Medical Robotics](https://img.sat.place/encyclopedia/technologies/health/autonomous-surgery-and-medical-robotics.webp)
+
 ## Summary
 
 - extreme precision through micro-incisions or internal access channels
