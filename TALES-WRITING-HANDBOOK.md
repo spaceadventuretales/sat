@@ -129,6 +129,23 @@ Avoid:
 
 The ideal result is charm, tension release, and character revelation, not stand-up comedy.
 
+## Natural human prose policy
+
+Follow `docs/manifesto/natural-human-prose-guide.md` for article and fiction language.
+
+The SAT voice is plain, concrete, varied, and expressive. It can be cinematic without becoming ornate.
+
+Required behavior:
+
+- Use simple, specific words. Prefer an exact action or object to an abstract label.
+- Avoid polished sameness, repeated sentence shapes, and padded explanations.
+- Make dialogue sound tied to the speaker, not to a neutral "professional" voice.
+- Use emotion through choice and consequence. Do not narrate every feeling from the outside.
+- Treat standard AI phrases and construction patterns as warning signs, not as automatic permission.
+- End scenes and articles with concrete movement, consequence, or earned emotion, not a summary of the theme.
+
+Before a story is complete, run the natural-prose revision pass in the guide. Remove conspicuous stock phrases and explainable-on-sight feelings unless they are specific to a character or moment.
+
 ## Social controversy and moral friction policy
 
 SAT stories can and should engage with difficult social questions when the story benefits from them.

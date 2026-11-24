@@ -83,6 +83,13 @@ These are warning signs that often make a story feel machine-generated, shallow,
 - twists that are visible too early because the setup is too neat
 - scenes that all feel equally toned and equally paced
 - dialogue that sounds polished but not personal
+- stock phrases used as a substitute for exact description
+- repeated sentence openings, paragraph shapes, or rule-of-three constructions
+- repeated contrast formulas such as `not X, but Y`
+- body-reaction clichés: racing heart, tightening chest, held breath, or eyes meeting
+- grand abstractions such as tapestry, symphony, realm, beacon, journey, or unfolding
+- article openings or endings that repeat the theme instead of stating a fact or consequence
+- an ending that explains the story's meaning after it has already shown the meaning
 
 ## Severity guide
 
