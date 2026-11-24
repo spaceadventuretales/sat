@@ -11,6 +11,7 @@ Read these files first:
 - `docs/manifesto/editorial-gate.md`
 - `docs/manifesto/critique-checklist.md`
 - `docs/manifesto/canon-policy.md`
+- `docs/manifesto/natural-human-prose-guide.md`
 - relevant encyclopedia articles under `docs/encyclopedia/`
 - the target draft, outline, chapter, or scene being reviewed
 
@@ -97,4 +98,6 @@ Write one ready-to-use prompt that instructs an AI assistant to revise this stor
 - do not produce vague workshop language
 - prefer examples and patterns over abstractions
 - if the draft feels AI-generated, say so clearly and explain why
+- compare repeated language and construction patterns against `docs/manifesto/natural-human-prose-guide.md`
+- do not name a phrase as artificial only because it appears once; identify a pattern or a conspicuously default use
 - if the story has real promise, identify exactly where that promise lives

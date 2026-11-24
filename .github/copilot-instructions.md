@@ -40,6 +40,9 @@ Use these top-level doc areas:
 ## Writing rules
 
 - Tone: cinematic, clear, and lore-focused.
+- For articles and stories, follow `docs/manifesto/natural-human-prose-guide.md`.
+- Prefer plain, specific English over ornate stock phrasing and repeated AI construction patterns.
+- Run the guide's revision pass before presenting substantial prose.
 - Distinguish canon facts from draft ideas.
 - Add practical templates when introducing a new section.
 - Avoid placeholder or generic Docusaurus tutorial content.

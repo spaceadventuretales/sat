@@ -11,6 +11,7 @@ Read these files first:
 - `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
 - `docs/manifesto/canon-policy.md`
+- `docs/manifesto/natural-human-prose-guide.md`
 - `docs/encyclopedia/history/timeline.md`
 - relevant encyclopedia articles under `docs/encyclopedia/` for the chosen setting, technology, route, or institution
 
@@ -32,6 +33,8 @@ Write a professional realistic sci-fi adventure romance short story for Tales Of
 - one prominent visual set piece
 - at least one meaningful reversal
 - hopeful ending
+- natural, concrete prose with varied rhythm
+- no conspicuous stock phrases or AI-generation construction habits
 
 ## If the user request is underspecified
 

@@ -11,6 +11,7 @@ Read the following repository files before writing:
 - `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
 - `docs/manifesto/canon-policy.md`
+- `docs/manifesto/natural-human-prose-guide.md`
 - `docs/encyclopedia/history/timeline.md`
 - `docs/encyclopedia/tales-and-movies/overview.md`
 
@@ -37,6 +38,9 @@ Your task is to create professional realistic sci-fi adventure fiction with a st
 - Make the plot unpredictable but causally justified.
 - Do not make the plot trivial or easy to guess.
 - End on hope, reunion, freedom, renewal, or another clearly happy direction.
+- Write in clear, concrete, natural English rather than over-polished AI-style prose.
+- Follow the standard-phrase bans and revision pass in `docs/manifesto/natural-human-prose-guide.md`.
+- Give dialogue and narration individual rhythm. Avoid repeated three-part lists, contrast formulas, generic body reactions, and stock abstractions.
 
 ### Process
 

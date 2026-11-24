@@ -21,6 +21,7 @@ Read these files before producing substantial story output:
 - `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
 - `docs/manifesto/canon-policy.md`
+- `docs/manifesto/natural-human-prose-guide.md`
 - `docs/encyclopedia/history/timeline.md`
 - `docs/encyclopedia/tales-and-movies/overview.md`
 
@@ -45,6 +46,18 @@ Treat the encyclopedia articles under `docs/encyclopedia/` as the authoritative 
 - Do not let the plot become trivial, linear, or easy to predict.
 - When using social controversy or moral conflict, embody it in character choices rather than speeches.
 - Keep canon continuity intact.
+
+## Natural human prose
+
+Use plain, concrete English. The story should feel observed and spoken, not assembled from polished stock parts.
+
+- Prefer exact actions and sensory facts over abstract emotion labels.
+- Vary sentence length and paragraph shape. Do not make every beat land in a neat slogan, rule of three, or contrast pair.
+- Give dialogue to the speaker. It should carry history, status, fear, desire, or concealment.
+- Do not explain jokes, symbols, reversals, or emotions after the scene has already shown them.
+- Avoid generic wonder language, interchangeable voices, and repeated body-reaction clichés.
+- Follow `docs/manifesto/natural-human-prose-guide.md`, especially its standard-phrase avoidance list and final revision pass.
+- Do not strip the prose of personality in the name of sounding simple. Natural language can be plain and highly expressive.
 
 ## Working method
 

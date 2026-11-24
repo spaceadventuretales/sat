@@ -11,6 +11,7 @@ Read these files first:
 - `docs/manifesto/story-modes.md`
 - `docs/manifesto/editorial-gate.md`
 - `docs/manifesto/canon-policy.md`
+- `docs/manifesto/natural-human-prose-guide.md`
 - any relevant encyclopedia articles tied to the scene
 
 Treat the encyclopedia as authoritative canon.
@@ -29,6 +30,7 @@ Rewrite a SAT scene to improve momentum, romance tension, realism, memorability,
 6. increase concreteness of setting and technology
 7. preserve or improve canon fit with encyclopedia articles
 8. end the scene with stronger forward pull
+9. remove or replace unnatural stock phrases, repetitive rhythm, and generic emotional shorthand
 
 ## If underspecified, ask about
 
